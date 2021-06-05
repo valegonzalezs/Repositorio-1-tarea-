@@ -1,4 +1,4 @@
-# About me
+# Acerca de mi 
  
 Mi nombre es Laura Valentina González Suárez soy del curso 1102
 y este repositorio es creado con el fin de conocer un poco más
@@ -19,4 +19,17 @@ que requiere de disiplina , tecnica y práctica  .
  ¿Cuál es tu hobby favorito? 
  Tengo muchos hobbies que me hacen feliz como salir, viajar , bailar,
  escuchar música, conocer lugares junto con mi familia  y practicar  equitación.
+
+#  ¿Qué  aprendió y lo que aún le confunde?
+
+Al realizar esta actividad pude aprender de una mejor manera,  a poner
+ en práctica los conceptos dados , aprendiendo así a llevar el control
+de versiones de un proyecto utilizando la terminal de Git , 
+hacer un repositorio en Github.
+
+¿Qué sería interesante o útil para su viaje de aprendizaje?
+
+Leer , búscar información y lo más importante es llevar 
+a la  práctica los conceptos vistos .
+
 
